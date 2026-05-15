@@ -14,7 +14,11 @@ ssi-connector-financial-accounting
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[ssi_connector_financial_accounting](ssi_connector_financial_accounting/) | 14.0.1.0.0 |  | Connector - Financial Accounting
 
 [//]: # (end addons)
 
